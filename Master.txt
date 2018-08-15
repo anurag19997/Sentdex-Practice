@@ -1,2 +1,0 @@
-This is master text
-And this text was added in third branch
